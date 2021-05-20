@@ -180,7 +180,7 @@ form.addEventListener("submit", e => {
                             body.style.cssText = 'background-color: #A0C4FF !important' //colores[5];
                             break;
                         case 'Snow': //NIEVE
-                            body.style.cssText = 'background-color: #FFFFFC !important' //colores[8];
+                            body.style.cssText = 'background-color: #FFC6FF !important' //colores[8];
                             break;
                         case 'Mist': //NEBLINA
                             body.style.cssText = 'background-color: #9BF6FF !important' //colores[4];
@@ -204,17 +204,17 @@ form.addEventListener("submit", e => {
                             body.style.cssText = 'background-color: #CAFFBF !important' //colores[3];
                             break;
                         case 'Squall': //RAFAGA
-                            body.style.cssText = '#A0C4FF !important' //colores[5];
+                            body.style.cssText = 'background-color: #A0C4FF !important' //colores[5];
                             break;
                         case 'Tornado': //
-                            body.style.cssText = '#BDB2FF !important' //colores[6];
+                            body.style.cssText = 'background-color: #BDB2FF !important' //colores[6];
                             break;
                         case 'Clear': //CLARO
-                            body.style.cssText = '#9BF6FF !important' //colores[4];
+                            body.style.cssText = 'background-color: #9BF6FF !important' //colores[4];
                             break;
                         default:
                         case 'Clouds': //NUBES
-                            body.style.cssText = 'FFFFFC !important' //colores[8];
+                            body.style.cssText = 'background-color: #FFC6FF !important' //colores[8];
                             break;
                     }
 
