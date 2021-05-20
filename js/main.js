@@ -115,7 +115,7 @@ form.addEventListener("submit", e => {
                     temPre.textContent = main.pressure;
                     precion.appendChild(temPre);
                     let sup4 = document.createElement('sup');
-                    sup4.textContent = '°C';
+                    sup4.textContent = 'mbar';
                     temPre.appendChild(sup4);
 
                     let figure3 = document.createElement('figure');
